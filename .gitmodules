@@ -1,0 +1,3 @@
+[submodule "parcel-project-template"]
+	path = parcel-project-template
+	url = https://github.com/goitacademy/parcel-project-template.git
